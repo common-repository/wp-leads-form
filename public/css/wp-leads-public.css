@@ -1,0 +1,27 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.wpl_fieldset {
+    width: 100%;
+    margin: 20px 0 0 0;
+}
+
+.wpl_label, .wpl_text_input, .wpl_textarea, .wpl_select, .wpl_alert {
+    width: 100%;
+}
+
+.wpl_alert {
+    padding: 10px;
+    border: 1px solid #cccccc;
+    margin: 20px 0;
+}
+
+.wpl_fail {
+    border-color: #ff0000;
+}
+
+.wpl_success {
+    border-color: #008000;
+}

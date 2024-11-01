@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-06-08 09:18+0500\n"
+"PO-Revision-Date: 2019-06-08 09:18+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wp-leads-admin.php:92
+msgid "Customer Data"
+msgstr ""
+
+#: admin/class-wp-leads-admin.php:176 admin/class-wp-leads-admin.php:191
+msgid "Customer name"
+msgstr ""
+
+#: admin/partials/wp-leads-edit-post-display.php:34
+#: public/class-wp-leads-public.php:97
+msgid "Phone Number"
+msgstr ""
+
+#: admin/partials/wp-leads-edit-post-display.php:40
+msgid "Email Address"
+msgstr ""
+
+#: admin/partials/wp-leads-edit-post-display.php:46
+#: public/class-wp-leads-public.php:99
+msgid "Desired Budget"
+msgstr ""
+
+#: admin/partials/wp-leads-edit-post-display.php:49
+#: public/class-wp-leads-public.php:150
+msgid "-- select --"
+msgstr ""
+
+#: admin/partials/wp-leads-edit-post-display.php:50
+#: public/class-wp-leads-public.php:151
+msgid "$100$ - $500"
+msgstr ""
+
+#: admin/partials/wp-leads-edit-post-display.php:51
+#: public/class-wp-leads-public.php:152
+msgid "$500$ - $1000"
+msgstr ""
+
+#: admin/partials/wp-leads-edit-post-display.php:52
+#: public/class-wp-leads-public.php:153
+msgid "$1000$ - $5000"
+msgstr ""
+
+#: admin/partials/wp-leads-edit-post-display.php:53
+#: public/class-wp-leads-public.php:154
+msgid "$5000+"
+msgstr ""
+
+#: admin/partials/wp-leads-edit-post-display.php:60
+#: public/class-wp-leads-public.php:100
+msgid "Message"
+msgstr ""
+
+#: admin/partials/wp-leads-edit-post-display.php:66
+msgid "Creation Time"
+msgstr ""
+
+#: includes/class-wp-leads.php:262 includes/class-wp-leads.php:263
+msgid "Customers"
+msgstr ""
+
+#: includes/class-wp-leads.php:264
+msgid "Customer Archives"
+msgstr ""
+
+#: includes/class-wp-leads.php:265
+msgid "Customer Attributes"
+msgstr ""
+
+#: includes/class-wp-leads.php:266
+msgid "Parent Customer:"
+msgstr ""
+
+#: includes/class-wp-leads.php:267
+msgid "All Customers"
+msgstr ""
+
+#: includes/class-wp-leads.php:268
+msgid "Add New Customer"
+msgstr ""
+
+#: includes/class-wp-leads.php:269
+msgid "Add New"
+msgstr ""
+
+#: includes/class-wp-leads.php:270
+msgid "New Customer"
+msgstr ""
+
+#: includes/class-wp-leads.php:271
+msgid "Edit Customer"
+msgstr ""
+
+#: includes/class-wp-leads.php:272
+msgid "Update Customer"
+msgstr ""
+
+#: includes/class-wp-leads.php:273
+msgid "View Customer"
+msgstr ""
+
+#: includes/class-wp-leads.php:274
+msgid "View Customers"
+msgstr ""
+
+#: includes/class-wp-leads.php:275
+msgid "Search Customer"
+msgstr ""
+
+#: includes/class-wp-leads.php:276
+msgid "Not found"
+msgstr ""
+
+#: includes/class-wp-leads.php:277
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/class-wp-leads.php:278
+msgid "Featured Image"
+msgstr ""
+
+#: includes/class-wp-leads.php:279
+msgid "Set featured image"
+msgstr ""
+
+#: includes/class-wp-leads.php:280
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/class-wp-leads.php:281
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/class-wp-leads.php:282
+msgid "Insert into customer"
+msgstr ""
+
+#: includes/class-wp-leads.php:283
+msgid "Uploaded to this customer"
+msgstr ""
+
+#: includes/class-wp-leads.php:284
+msgid "Customers list"
+msgstr ""
+
+#: includes/class-wp-leads.php:285
+msgid "Customers list navigation"
+msgstr ""
+
+#: includes/class-wp-leads.php:286
+msgid "Filter customers list"
+msgstr ""
+
+#: includes/class-wp-leads.php:289
+msgid "Customer"
+msgstr ""
+
+#: includes/class-wp-leads.php:290
+msgid "Customer leads"
+msgstr ""
+
+#: includes/class-wp-leads.php:317
+msgid "Categories"
+msgstr ""
+
+#: includes/class-wp-leads.php:318
+msgid "All Categories"
+msgstr ""
+
+#: includes/class-wp-leads.php:319
+msgid "Parent Category"
+msgstr ""
+
+#: includes/class-wp-leads.php:320
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/class-wp-leads.php:321
+msgid "New Category Name"
+msgstr ""
+
+#: includes/class-wp-leads.php:322
+msgid "Add New Category"
+msgstr ""
+
+#: includes/class-wp-leads.php:323
+msgid "Edit Category"
+msgstr ""
+
+#: includes/class-wp-leads.php:324
+msgid "Update Category"
+msgstr ""
+
+#: includes/class-wp-leads.php:325
+msgid "View Category"
+msgstr ""
+
+#: includes/class-wp-leads.php:326
+msgid "Separate categories with commas"
+msgstr ""
+
+#: includes/class-wp-leads.php:327
+msgid "Add or remove categories"
+msgstr ""
+
+#: includes/class-wp-leads.php:328 includes/class-wp-leads.php:365
+msgid "Choose from the most used"
+msgstr ""
+
+#: includes/class-wp-leads.php:329
+msgid "Popular Categories"
+msgstr ""
+
+#: includes/class-wp-leads.php:330
+msgid "Search Categories"
+msgstr ""
+
+#: includes/class-wp-leads.php:331 includes/class-wp-leads.php:368
+msgid "Not Found"
+msgstr ""
+
+#: includes/class-wp-leads.php:332
+msgid "No categories"
+msgstr ""
+
+#: includes/class-wp-leads.php:333
+msgid "Categories list"
+msgstr ""
+
+#: includes/class-wp-leads.php:334
+msgid "Categories list navigation"
+msgstr ""
+
+#: includes/class-wp-leads.php:354
+msgid "Tags"
+msgstr ""
+
+#: includes/class-wp-leads.php:355
+msgid "All Tags"
+msgstr ""
+
+#: includes/class-wp-leads.php:356
+msgid "Parent Tag"
+msgstr ""
+
+#: includes/class-wp-leads.php:357
+msgid "Parent Tag:"
+msgstr ""
+
+#: includes/class-wp-leads.php:358
+msgid "New Tag Name"
+msgstr ""
+
+#: includes/class-wp-leads.php:359
+msgid "Add New Tag"
+msgstr ""
+
+#: includes/class-wp-leads.php:360
+msgid "Edit Tag"
+msgstr ""
+
+#: includes/class-wp-leads.php:361
+msgid "Update Tag"
+msgstr ""
+
+#: includes/class-wp-leads.php:362
+msgid "View Tag"
+msgstr ""
+
+#: includes/class-wp-leads.php:363
+msgid "Separate tags with commas"
+msgstr ""
+
+#: includes/class-wp-leads.php:364
+msgid "Add or remove Tags"
+msgstr ""
+
+#: includes/class-wp-leads.php:366
+msgid "Popular Tags"
+msgstr ""
+
+#: includes/class-wp-leads.php:367
+msgid "Search Tags"
+msgstr ""
+
+#: includes/class-wp-leads.php:369
+msgid "No tags"
+msgstr ""
+
+#: includes/class-wp-leads.php:370
+msgid "Tags list"
+msgstr ""
+
+#: includes/class-wp-leads.php:371
+msgid "Tags list navigation"
+msgstr ""
+
+#: public/class-wp-leads-public.php:80
+msgid "Server error!"
+msgstr ""
+
+#: public/class-wp-leads-public.php:96
+msgid "Name (required)"
+msgstr ""
+
+#: public/class-wp-leads-public.php:98
+msgid "Email Address (required)"
+msgstr ""
+
+#: public/class-wp-leads-public.php:168
+msgid "Submit"
+msgstr ""
+
+#: public/class-wp-leads-public.php:216
+msgid "Security check issue"
+msgstr ""
+
+#: public/class-wp-leads-public.php:261
+msgid "Thanks, your information has been successfully stored."
+msgstr ""
+
+#: public/class-wp-leads-public.php:269
+msgid "Please enter name and email!"
+msgstr ""

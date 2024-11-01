@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.wpl_fieldset {
+    width: 100%;
+    margin: 20px 0 0 0;
+}
+
+.wpl_label, .wpl_text_input, .wpl_textarea, .wpl_select {
+    width: 100%;
+}
